@@ -4,6 +4,8 @@ CLI
 [![Release](https://github.com/streamdal/cli/actions/workflows/release.yaml/badge.svg)](https://github.com/streamdal/cli/actions/workflows/release.yaml)
 [![Discord](https://img.shields.io/badge/Community-Discord-4c57e8.svg)](https://discord.gg/streamdal)
 
+# [THIS REPO HAS MOVED!](https://github.com/streamdal/streamdal)
+
 CLI tool for [Streamdal](https://streamdal.com)!
 
 > It's like a `tail -f` for your data!
